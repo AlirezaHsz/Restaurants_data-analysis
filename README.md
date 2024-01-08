@@ -29,7 +29,7 @@ The Percentage of Positive Reviews for Rafsanjan is 65.49%.
 ![image](https://github.com/AlirezaHsz/Restaurants_data-analysis/assets/137410544/4b9e4f5c-c483-43eb-a050-1cdc9526a4c3)
 ![image](https://github.com/AlirezaHsz/Restaurants_data-analysis/assets/137410544/70837170-a79e-403a-9d49-e73bee3bcbe5)
 ![image](https://github.com/AlirezaHsz/Restaurants_data-analysis/assets/137410544/3c35be9e-f907-4c19-8f9c-1c664afe24c0)
-## 4) Data storage:
+## 4) Data storage by SQL Server:
 Created a database named dbRafsanjan.
 Created a table named Restaurant.
 All 113 records were entered into the table.
