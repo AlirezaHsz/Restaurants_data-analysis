@@ -5,7 +5,7 @@ So the goals to achive are:
 In this step we have collected the data about the restaurants in Rafsanjan using google. The dataset includes information such as Restaurant's name,Rate, Number of Reviews, Address, Location.
 ![image](https://github.com/AlirezaHsz/Restaurants_data-analysis/assets/137410544/ab6da7dd-6dcf-416f-87cd-e781930a92a8)
 
-## 2) Data prepration and statistics: 
+## 2) Data prepration and statistics by Python: 
 In this step we have cleaned and prepared the data using python:
 Results:
 The dataset has 166 rows and 4 columns.
